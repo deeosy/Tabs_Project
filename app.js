@@ -20,5 +20,4 @@ about.addEventListener('click',(e) => {
     const selectedArticle = document.getElementById(id)
     selectedArticle.classList.add('active')
   }
-  
 })
